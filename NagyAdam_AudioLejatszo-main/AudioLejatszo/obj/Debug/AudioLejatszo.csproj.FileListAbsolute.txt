@@ -1,0 +1,15 @@
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\bin\Debug\AudioLejatszo.exe.config
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\bin\Debug\AudioLejatszo.exe
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\bin\Debug\AudioLejatszo.pdb
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.csprojAssemblyReference.cache
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\MainWindow.g.cs
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\App.g.cs
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo_MarkupCompile.cache
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo_MarkupCompile.lref
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\MainWindow.baml
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.g.resources
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.Properties.Resources.resources
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.csproj.GenerateResource.cache
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.csproj.CoreCompileInputs.cache
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.exe
+C:\Users\nagya\Desktop\NagyAdam_AudioLejatszo-main\AudioLejatszo\obj\Debug\AudioLejatszo.pdb

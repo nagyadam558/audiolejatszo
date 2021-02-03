@@ -1,0 +1,27 @@
+﻿<Window x:Class="AudioLejatszo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AudioLejatszo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Photo_16046021139541-scaled.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Slider x:Name="timeSlider" HorizontalAlignment="Center" Margin="246,321,246,0" VerticalAlignment="Top" Width="300" Height="18" ValueChanged="timeSlider_ValueChanged" TickFrequency="10" Cursor="Arrow"/>
+        <Button x:Name="PlayStop" Content="Play" HorizontalAlignment="Center" Margin="293,283,424,0" VerticalAlignment="Top" Width="75" Height="21" Click="PlayStop_Click" RenderTransformOrigin="0.548,0.318"/>
+        <Button x:Name="FileOpen" Content="Fájlok&#xD;&#xA;Megnyitása" HorizontalAlignment="Left" Height="39" Margin="20,135,0,0" VerticalAlignment="Top" Width="87" Click="FileOpen_Click"/>
+        <ListBox x:Name="OpenSongList" HorizontalAlignment="Center" Height="166" Margin="167,54,143,0" VerticalAlignment="Top" Width="482" SelectionChanged="OpenSongList_SelectionChanged"/>
+        <Button x:Name="Stop" Content="Stop" HorizontalAlignment="Center" Margin="397,283,320,0" VerticalAlignment="Top" Width="75" Height="21" Click="Stop_Click"/>
+        <Button x:Name="Prev" Content="Prev&#xD;&#xA;" HorizontalAlignment="Center" Margin="193,283,524,0" VerticalAlignment="Top" Width="75" Height="21" Click="Prev_Click"/>
+        <Button x:Name="Next" Content="Next" HorizontalAlignment="Center" Margin="502,283,215,0" VerticalAlignment="Top" Width="75" Height="21" Click="Next_Click" RenderTransformOrigin="1.053,0.519"/>
+        <Slider x:Name="VolumeSlider" HorizontalAlignment="Right" Margin="0,286,39,0" VerticalAlignment="Top" Width="87" Height="18" SmallChange="0.01" Maximum="1" ValueChanged="VolumeSlider_ValueChanged" Value="0.5"/>
+        <TextBlock HorizontalAlignment="Right" Margin="0,0,39,138" TextWrapping="Wrap" VerticalAlignment="Bottom" Width="87" Height="17" TextAlignment="Center" Foreground="Black"><Run Background="#FFE2CBCB" Text="Hangerő"/></TextBlock>
+
+    </Grid>
+</Window>
